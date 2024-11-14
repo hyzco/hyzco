@@ -16,29 +16,6 @@ I'm a software developer with a passion for making my dreams a reality through i
 
 ---
 
-## 💼 **Professional Experience**
-
-### **Software Engineer** at HCL Software (Kraków, Poland)  
-*July 2020 - Present*
-
-- Developed and maintained features using JavaScript, TypeScript, React.js, Node.js, Java, and Ruby on Rails.
-- Utilized Docker, Kubernetes, and Jenkins for CI/CD pipelines.
-- Collaborated with international teams to develop various modules in a Scrum environment, focusing on SaaS solutions.
-- Led a successful migration of a legacy asset pipeline, reducing compilation time by 90%.
-
----
-
-## 🎓 **Education**
-
-- **Computer Science**, Polish-Japanese Academy of Information Technology (Warsaw, Poland)  
-  *2018 - 2020*
-- **Preparation**, Warsaw Technical University (Warsaw, Poland)  
-  *2017 - 2018*
-- **Database Systems**, Bahcesehir IMKB Technical High School (Istanbul, Turkey)  
-  *2013 - 2017*
-
----
-
 ## 🌍 **What I Do & What I Love**
 
 I thrive in dynamic environments where I can apply my skills in cloud computing, software development, and systems operations. My focus is on creating robust, scalable, and user-friendly solutions that push the boundaries of technology. I am particularly interested in:

@@ -79,3 +79,59 @@ Let's connect! I'm always open to discussing new projects, collaborations, or te
 ---
 
 **"Strive not to be a success, but rather to be of value."** – *Albert Einstein*
+
+
+## Currently working on;
+
+### TheyCloud Cloud Service Management Platform
+
+This cloud project is a versatile platform designed to offer comprehensive management of cloud services, particularly focusing on Virtual Private Servers (VPS) and a dynamic, flexible cloud solution called Cloud-Flex. It provides users with the tools to manage both predefined and customizable cloud services while maintaining clear cost tracking and efficient resource allocation.
+
+### What It Is
+A cloud service management system that blends the stability of predefined server plans with the flexibility of dynamically allocated cloud resources. It aims to deliver a seamless user experience for managing cloud infrastructure, combining static offerings like traditional VPS with a dynamic, container-based cloud service known as Cloud-Flex.
+
+### What It Does
+- Manages both **VPS** and **Cloud-Flex** services, giving users options between fixed server plans and customizable cloud solutions.
+- Provides a user-friendly interface to handle service purchases, usage monitoring, and resource management.
+- Utilizes Cloud-Flex to create and manage containers, allowing users to tailor resource allocation to specific needs while implementing a usage-based billing system.
+- Integrates payment systems and credit tracking to provide transparency over costs, with the flexibility to handle dynamic billing scenarios.
+
+### Main Features
+
+#### 1. Diverse Cloud Service Options
+- **VPS Plans**: Offers a choice of static, predefined plans (Basic, Standard, Premium) with fixed resources and durations. These plans cater to users looking for a predictable and straightforward server solution.
+- **Cloud-Flex**: A flexible, usage-based service that goes beyond billing—this service includes provisioning containers tailored to user specifications. Containers can be dynamically adjusted to meet specific demands, providing a high degree of control over resource allocation.
+
+#### 2. Dynamic Container Management with Cloud-Flex
+- Cloud-Flex provides not only flexible billing based on resource usage but also the ability to create and manage containers directly. Users can modify resources on-the-fly, scaling containers up or down as required by their workloads.
+- This approach supports adaptive cloud environments, ideal for scenarios where resource needs fluctuate.
+
+#### 3. Clear Cost Management
+- The platform maintains transparency in billing for both predefined and flexible services. VPS costs are fixed and easily traceable, while Cloud-Flex dynamically adjusts billing based on actual usage.
+- Payments, credit usage, and service renewals are managed through a structured system to ensure clarity over financial aspects. Costs for Cloud-Flex services are calculated dynamically, whereas VPS costs remain consistent per plan.
+
+#### 4. Subscription and Resource Control
+- Users can manage subscriptions, purchase new services, and renew plans directly from a centralized dashboard.
+- Containers associated with subscriptions are tracked and monitored, allowing for easy modification, updates, or scaling operations.
+
+#### 5. Automated Task Handling
+- The system uses background automation to manage tasks like monitoring usage, validating payments, and handling renewals.
+- A dedicated task observer continuously oversees background processes, ensuring smooth service operations without manual intervention.
+
+#### 6. Comprehensive Dashboard Interface
+- A front-end interface built with React (Next.js) offers users a detailed overview of their services, credits, payments, and resource usage.
+- The dashboard acts as the central hub for managing cloud assets, offering insights into ongoing subscriptions, service costs, and available credits.
+
+### Technical Overview
+- **Front-End**: Uses React and Next.js for a modern, responsive interface focused on ease of navigation and user-friendly service management.
+- **Back-End**: Built with Node.js, version 22, featuring a modular structure to keep the codebase maintainable and scalable. It leverages MySQL for database management.
+- **Database**: MySQL database holds structured data for services, subscriptions, payments, and credits, enabling efficient query handling and resource management.
+- **Automation**: Employs a background task system for monitoring and handling various service operations without manual input. This automation supports both fixed VPS plans and dynamic Cloud-Flex environments.
+
+### Conclusion
+This project successfully blends **traditional VPS offerings with a highly customizable Cloud-Flex service**, emphasizing flexibility, transparency, and robust cloud infrastructure management. The goal is to cater to both predictable and dynamic cloud needs, allowing users to manage their environments with precision while maintaining clear visibility over costs and resources.
+
+* A sneak peak from current development :) 
+
+[TheyCloud](https://github.com/user-attachments/assets/1febc5a2-80e3-4044-91a1-5d5c8a2a3207)
+

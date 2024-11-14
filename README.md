@@ -81,7 +81,7 @@ Let's connect! I'm always open to discussing new projects, collaborations, or te
 **"Strive not to be a success, but rather to be of value."** – *Albert Einstein*
 
 
-## Currently working on;
+## The project that I'm developing in my spare time;
 
 ### TheyCloud Cloud Service Management Platform
 

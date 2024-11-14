@@ -26,18 +26,6 @@ I'm a software developer with a passion for making my dreams a reality through i
 - Collaborated with international teams to develop various modules in a Scrum environment, focusing on SaaS solutions.
 - Led a successful migration of a legacy asset pipeline, reducing compilation time by 90%.
 
-### **Web Developer** at technox.com.tr (Istanbul, Turkey)  
-*2018 - 2019*
-
-- Developed the user interface and custom plugins for a hosting server datacenter website using WHMCS.
-- Maintained website operations, focusing on usability and scalability.
-
-### **Datacenter Technician & Sysop** at Nettiar.net (Istanbul, Turkey)  
-*2017 - 2018*
-
-- Conducted system operations, including monitoring network activities and managing servers.
-- Ensured the seamless installation and maintenance of rack, tower, and blade servers in a data center environment.
-
 ---
 
 ## 🎓 **Education**

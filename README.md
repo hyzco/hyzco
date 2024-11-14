@@ -100,3 +100,13 @@ This project successfully blends **traditional VPS offerings with a highly custo
 
 [TheyCloud](https://github.com/user-attachments/assets/1febc5a2-80e3-4044-91a1-5d5c8a2a3207)
 
+Admin dashboard
+![Overview](https://github.com/user-attachments/assets/7096cab3-0a99-4727-8bbe-fb2219c31bd8)
+
+Nodes:
+![Nodes](https://github.com/user-attachments/assets/bc73dbff-b393-4354-8c5d-3e1fa765fb4c)
+
+Networks:
+![Networks](https://github.com/user-attachments/assets/96afe70c-043a-4340-8377-6f6ea4f36dc2)
+
+
